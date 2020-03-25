@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add0e660-cd9f-4070-af88-86340a690edc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/weather/lookup/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather/lookup/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather/lookup/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather/lookup/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/lookup/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/weather/lookup/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/lookup/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/weather/lookup/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/lookup/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather/lookup/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
