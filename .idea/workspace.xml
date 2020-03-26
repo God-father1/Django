@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="add0e660-cd9f-4070-af88-86340a690edc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather/lookup/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/weather/lookup/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather/lookup/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/weather/lookup/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather/lookup/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather/lookup/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +39,12 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bala\PycharmProjects\Django\To_do_list" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -70,13 +73,25 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="910" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585058185577">
+    <state x="910" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585205091486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="910" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585058185577" />
-    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585053503155">
+    <state x="910" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585205091486" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1585137699949">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1585053503155" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585137699949" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1585203442470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1585203442470" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585130404084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1585130404084" />
+    <state x="789" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585212144849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="789" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585212144849" />
   </component>
 </project>
